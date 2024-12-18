@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a **dedicated software developer** with a uniq
 
 ## 🚀 Featured Projects
 
-### [Cafe Shop Management System](https://github.com/your-username/cafe-shop-management-system)
+### [Cafe Shop Management System](https://github.com/Bilal-pasha/cafe-shop-management-system)
 A desktop application for cafe shop management, leveraging **C#**, **Windows Forms**, and **MS SQL Server** for efficient order and sales tracking.
 
 ### [Deene Madaris Scouts](https://deene-madaris-scouts.vercel.app/)

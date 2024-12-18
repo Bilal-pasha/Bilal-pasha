@@ -1,44 +1,84 @@
-# Welcome to My GitHub Profile!
+# Hi, I'm Bilal Pasha! 👋
 
-Hi there! I'm a passionate **Software Developer** with a strong focus on creating robust and user-friendly applications. My expertise spans across various technologies, frameworks, and tools, and I am constantly learning to keep up with the latest trends in software development.
+Welcome to my GitHub profile! I'm a **dedicated software developer** with a unique blend of skills derived from both a solid foundation in religious studies and a thriving career in software engineering. My journey reflects my passion for integrating diverse perspectives into innovative software solutions.
 
-## About Me
+## 🌟 About Me
 
-- **👨‍💻 Profession**: Software Developer
-- **💡 Specialization**: Backend Development, Desktop Applications, and Database Management
-- **📍 Location**: Your City, Your Country
-- **🌱 Currently Learning**: Advanced C# concepts, .NET Core, and Cloud Computing
-- **🚀 Interests**: Building scalable software, automating processes, and exploring AI/ML
-- **📧 Contact**: [your.email@example.com](mailto:your.email@example.com)
+- **👨‍💻 Current Role**: Software Engineer at Techwards (2024 - Present)
+- **🎓 Education**: 
+  - **BS in Computer Science** (2024 - 2026) at PAF-KIET
+  - **Masters in Arts** (2021) at University of Karachi
+- **🌍 Location**: Karachi, Pakistan
+- **📧 Contact**: [bilopasho56@gmail.com](mailto:bilopasho56@gmail.com)
+- **🌐 Portfolio**: [bilal-pasha.netlify.app](https://bilal-pasha.netlify.app)
 
-## Technologies & Tools
+## 💼 Experience
 
-- **Programming Languages**: C#, JavaScript, SQL
-- **Frameworks**: .NET Framework, ASP.NET Core, React
-- **Databases**: MS SQL Server, MongoDB
-- **Tools**: Visual Studio, Git, Docker, Postman
-- **Other Skills**: Windows Forms, REST API Development, Agile Methodologies
+### **Associate Software Engineer | Techwards (2024 - Present)**
+- Developed and maintained scalable web applications using **Next.js**, **TypeScript**, and **Tailwind CSS**.
+- Collaborated with cross-functional teams to gather requirements and deliver innovative solutions.
+- Wrote clean, maintainable code adhering to best practices and design patterns.
+- Conducted code reviews and provided constructive feedback to enhance team performance.
+- Troubleshot and resolved technical issues, ensuring timely project delivery.
 
-## Projects
+### **Web Developer (Intern) | Hat Incorporation (Jan 2023 - May 2023)**
+- Assisted in developing responsive web applications using **HTML**, **CSS**, and **JavaScript**.
+- Collaborated with designers to implement user-friendly interfaces for seamless UX.
+- Participated in code reviews and team discussions to enhance project quality.
+- Conducted testing and debugging to ensure robust performance.
+- Gained hands-on experience with **Git** for version control.
 
-Here are some highlights of my work:
+## 🛠 Skills & Tools
+
+### **Programming Languages**
+- TypeScript, JavaScript, C#, C++
+
+### **Frameworks & Tools**
+- .NET Core, Next.js, React.js, Astro.js
+
+### **Soft Skills**
+- Public Relations, Teamwork, Time Management, Effective Communication, Critical Thinking
+
+## 🔧 Tech Stack
+
+| Category          | Technologies            |
+|-------------------|-------------------------|
+| **Frontend**      | Next.js, React.js       |
+| **Backend**       | .NET Core               |
+| **Styling**       | Tailwind CSS            |
+| **Version Control**| Git                     |
+
+## 🚀 Featured Projects
 
 ### [Cafe Shop Management System](https://github.com/your-username/cafe-shop-management-system)
-A desktop application built with Core C#, Windows Forms, and MS SQL Server for managing orders, sales, and menu items for a cafe.
+A desktop application for cafe shop management, leveraging **C#**, **Windows Forms**, and **MS SQL Server** for efficient order and sales tracking.
 
-### [Project Name](https://github.com/your-username/project-name)
-Description of the project showcasing your skills in a specific technology or domain.
+### [Deene Madaris Scouts](https://deene-madaris-scouts.vercel.app/)
+An online platform designed for managing scout activities and enhancing collaboration within Deene Madaris. This project features:
+- **Technologies**: **Next.js**, **Tailwind CSS**, **Material-UI (MUI)**
+- **Animation**: Enhanced user experience with **Framer Motion** for smooth transitions and animations.
+- **Authentication**: Implemented secure user authentication using **NextAuth**.
 
-### [Another Project Name](https://github.com/your-username/another-project)
-Brief description about this project and what makes it interesting.
+### [Rooh ul Misk](https://roohulmisk.com)
+A comprehensive e-commerce platform offering premium perfumes. This project includes:
+- **Technologies**: **Next.js**, **Tailwind CSS**, **Material-UI (MUI)**
+- **Animation**: Seamless user interactions powered by **Framer Motion**.
+- **Authentication**: Integrated user authentication with **NextAuth** for a secure shopping experience.
+- **Features**: User-friendly navigation, secure payment integration, and a responsive design.
 
-Feel free to check out the repositories pinned on my profile for more!
+### [Portfolio Website](https://bilal-pasha.netlify.app)
+A personal portfolio showcasing my skills and projects, built with **Astro.js** and **Tailwind CSS**.
 
-## Get in Touch
+## 🌱 Currently Learning
 
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- Advanced **C#** concepts
+- **Cloud Computing**
+- Scaling applications with **.NET Core**
 
-Let’s collaborate and build something amazing together! 🚀
+## 📬 Let's Connect
+
+- **LinkedIn**: [linkedin.com/in/bilal-pasha](https://www.linkedin.com/in/bilal-pasha-ab71b1242/)
+- **Email**: [bilopasho56@gmail.com](mailto:bilopasho56@gmail.com)
+
+I’m excited to collaborate, learn, and contribute to impactful projects. Let’s build something amazing together! 🚀
 

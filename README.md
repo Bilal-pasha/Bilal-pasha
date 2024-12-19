@@ -74,6 +74,7 @@ A desktop application for cafe shop management, leveraging **C#**, **Windows For
 An online platform designed for managing scout activities and enhancing collaboration within Deene Madaris. This project features:
 - **Technologies**: **Next.js**, **Tailwind CSS**, **Material-UI (MUI)**
 - **Animation**: Enhanced user experience with **Framer Motion** for smooth transitions and animations.
+- **Database**: Using **MongoDB** for storing application data and **AWS S3** for file storage.  
 - **Authentication**: Implemented secure user authentication using **NextAuth**.
 
 ### [Rooh ul Misk](https://roohulmisk.com)

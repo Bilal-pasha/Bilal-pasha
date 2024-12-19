@@ -39,15 +39,32 @@ Welcome to my GitHub profile! I'm a **dedicated software developer** with a uniq
 ### **Soft Skills**
 - Public Relations, Teamwork, Time Management, Effective Communication, Critical Thinking
 
-## 🔧 Tech Stack
+## 🔧 Technologies Overview
 
-| Category          | Technologies            |
-|-------------------|-------------------------|
-| **Frontend**      | Next.js, React.js       |
-| **Backend**       | .NET Core               |
-| **Styling**       | Tailwind CSS            |
-| **Version Control**| Git                     |
+| **Category**       | **Technologies**                                    |
+|--------------------|---------------------------------------------------|
+| **Frontend**       | Next.js, React.js                                 |
+| **Backend**        | .NET Core                                         |
+| **Database**       | Microsoft SQL Server, MongoDB, Firebase           |
+| **Styling**        | Tailwind CSS                                      |
+| **Version Control**| Git                                               |
+| **Deployment**     | Vercel, Netlify, AWS (Elastic Beanstalk, EC2, Amplify) |
+| **Storage**        | AWS S3                                            |
 
+## Key Details
+
+### Deployment Types
+- **Vercel**: Ideal for deploying Next.js applications with built-in CI/CD, serverless functions, and automatic scaling.
+- **Netlify**: Perfect for static sites and JAMstack applications, providing CI/CD, serverless functions, and forms handling.
+- **AWS**:
+  - **Elastic Beanstalk**: Manages application deployment and scaling for web apps.
+  - **EC2**: Provides virtual servers to host any application, offering more control over the environment.
+  - **Amplify**: Streamlines deployment for frontend and mobile apps with easy integration for authentication, APIs, and hosting.
+
+### AWS S3 (Simple Storage Service)
+- **Primary Use**: Object storage for files, images, backups, and static assets.
+- **Features**: Highly durable, scalable, and secure storage solution with features like versioning, lifecycle policies, and public/private access configurations.
+- **Integration**: Can be used with CDN services like AWS CloudFront to optimize delivery and reduce latency.
 ## 🚀 Featured Projects
 
 ### [Cafe Shop Management System](https://github.com/Bilal-pasha/cafe-shop-management-system)

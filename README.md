@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a **dedicated software developer** with a uniq
   - **Masters in Arts** (2021) at University of Karachi
 - **🌍 Location**: Karachi, Pakistan
 - **📧 Contact**: [bilopasho56@gmail.com](mailto:billopasho56@gmail.com)
-- **🌐 Portfolio**: [bilal-pasha.netlify.app](https://bilal-pasha.netlify.app)
+- **🌐 Portfolio**: [bilal-pasha.vercel.app](https://bilal-pasha.vercel.app)
 
 ## 💼 Experience
 

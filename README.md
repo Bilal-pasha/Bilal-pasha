@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **dedicated software developer** with a uniq
 
 ## 🌟 About Me
 
-- **👨‍💻 Current Role**: Software Engineer at Techwards (2024 - Present)
+- **👨‍💻 Current Role**: Software Engineer at Techwards (2023 - Present)
 - **🎓 Education**: 
   - **BS in Computer Science** (2024 - 2026) at PAF-KIET
   - **Masters in Arts** (2021) at University of Karachi

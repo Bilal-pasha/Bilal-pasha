@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **dedicated software developer** with a uniq
   - **BS in Computer Science** (2024 - 2026) at PAF-KIET
   - **Masters in Arts** (2021) at University of Karachi
 - **🌍 Location**: Karachi, Pakistan
-- **📧 Contact**: [bilopasho56@gmail.com](mailto:bilalpasha.dev@gmail.com)
+- **📧 Contact**: [bilalpasha.dev@gmail.com](mailto:bilalpasha.dev@gmail.com)
 - **🌐 Portfolio**: [bilal-pasha.vercel.app](https://bilal-pasha.vercel.app)
 
 ## 💼 Experience
@@ -96,7 +96,7 @@ A personal portfolio showcasing my skills and projects, built with **Astro.js** 
 ## 📬 Let's Connect
 
 - **LinkedIn**: [linkedin.com/in/bilal-pasha](https://www.linkedin.com/in/bilal-pasha-ab71b1242/)
-- **Email**: [bilopasho56@gmail.com](mailto:bilopasho56@gmail.com)
+- **Email**: [bilalpasha.dev@gmail.com](mailto:bilalpasha.dev@gmail.com)
 
 I’m excited to collaborate, learn, and contribute to impactful projects. Let’s build something amazing together! 🚀
 

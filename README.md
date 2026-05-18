@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a **dedicated software developer** with a uniq
 - **👨‍💻 Current Role**: Software Engineer at Techwards (2023 - Present)
 - **🎓 Education**: 
   - **BS in Computer Science** (2024 - 2026) at KIET (Karachi Institute of Economics and Technology)
-  - **Masters in Arts** (2021) at University of Karachi
 - **🌍 Location**: Karachi, Pakistan
 - **📧 Contact**: [bilalpasha.dev@gmail.com](mailto:bilalpasha.dev@gmail.com)
 - **🌐 Portfolio**: [bilalpasha.tech](https://bilalpasha.tech)
